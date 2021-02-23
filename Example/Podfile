@@ -1,0 +1,8 @@
+
+platform :ios, '9.0'
+use_frameworks!
+
+target 'GJTAdditionKit' do
+   
+    pod 'GJTAdditionKit',:path => '../'
+end
