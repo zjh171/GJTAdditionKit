@@ -9,5 +9,6 @@
 #define GJTAdditionKit_h
 
 #import <GJTAdditionKit/UIView+HandyValue.h>
+#import <GJTAdditionKit/UINavigationController+GJTFullscreenPopGesture.h>
 
 #endif /* GJTAdditionKit_h */
