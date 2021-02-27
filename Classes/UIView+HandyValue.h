@@ -15,6 +15,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) CGFloat gjt_top;
 @property (nonatomic) CGFloat gjt_right;
 @property (nonatomic) CGFloat gjt_bottom;
+@property (nonatomic) CGFloat gjt_height;
+@property (nonatomic) CGFloat gjt_width;
+@property (nonatomic) CGFloat gjt_centerX;
+@property (nonatomic) CGFloat gjt_centerY;
+@property (nonatomic) CGSize gjt_size;
 
 
 @end
