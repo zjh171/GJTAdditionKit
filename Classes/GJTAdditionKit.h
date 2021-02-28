@@ -10,6 +10,9 @@
 
 #import <GJTAdditionKit/UIView+HandyValue.h>
 #import <GJTAdditionKit/UIScreen+HandyValue.h>
+#import <GJTAdditionKit/UIColor+GJTAddition.h>
+#import <GJTAdditionKit/UIImage+GJTAddition.h>
+
 #import <GJTAdditionKit/UINavigationController+GJTFullscreenPopGesture.h>
 
 #endif /* GJTAdditionKit_h */
