@@ -98,6 +98,14 @@
     self.center       = newCenter;
 }
 
+- (CGFloat)gjt_centerX {
+    return self.center.x;
+}
+
+-(CGFloat)gjt_centerY {
+    return self.center.y;
+}
+
 - (void)setGjt_centerY:(CGFloat)gjt_centerY{
     
     CGPoint newCenter = self.center;
