@@ -11,6 +11,20 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+## Communication
+- If you **need help**, go to [Kyson.cn](https://kyson.cn). 
+
+## Architecture
+
+UIView+HandyValue
+UIScreen+HandyValue
+UIColor+GJTAddition
+UIImage+GJTAddition
+UIDevice+HandyValue
+NSObject+GJTAssociatedObject
+
+UINavigationController+GJTFullscreenPopGesture
+
 ## Installation
 
 GJTAdditionKit is available through [CocoaPods](https://cocoapods.org). To install
