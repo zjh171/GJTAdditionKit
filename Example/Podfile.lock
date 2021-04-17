@@ -1,5 +1,5 @@
 PODS:
-  - GJTAdditionKit (0.0.5)
+  - GJTAdditionKit (0.0.7)
 
 DEPENDENCIES:
   - GJTAdditionKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GJTAdditionKit: f99408252bbb2b7748ea307b5fe72fbbc55d546f
+  GJTAdditionKit: cffddbd7628c739cf7bbedff2cb64b933a834c96
 
 PODFILE CHECKSUM: f679da50f5872b975724184b0a3844a3c89c11b2
 
