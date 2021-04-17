@@ -1,0 +1,16 @@
+PODS:
+  - GJTAdditionKit (0.0.5)
+
+DEPENDENCIES:
+  - GJTAdditionKit (from `../`)
+
+EXTERNAL SOURCES:
+  GJTAdditionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GJTAdditionKit: f99408252bbb2b7748ea307b5fe72fbbc55d546f
+
+PODFILE CHECKSUM: f679da50f5872b975724184b0a3844a3c89c11b2
+
+COCOAPODS: 1.10.1

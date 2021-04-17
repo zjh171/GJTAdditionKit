@@ -2,7 +2,7 @@
 //  UINavigationController+GJTFullscreenPopGesture.h
 //  GJTAdditionKit
 //
-//  Created by kyson on 2021/2/25.
+//  Created by kyson on 2021/3/25.
 //
 
 #import <UIKit/UIKit.h>

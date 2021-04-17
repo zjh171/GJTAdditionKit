@@ -2,7 +2,7 @@
 //  UIScreen+HandyValue.h
 //  GJTAdditionKit
 //
-//  Created by kyson on 2021/2/27.
+//  Created by kyson on 2021/3/27.
 //
 
 #import <UIKit/UIKit.h>

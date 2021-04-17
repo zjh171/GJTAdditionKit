@@ -2,7 +2,7 @@
 //  GJTAdditionKit.h
 //  Pods
 //
-//  Created by kyson on 2021/2/21.
+//  Created by kyson on 2021/3/21.
 //
 
 #ifndef GJTAdditionKit_h
@@ -12,6 +12,7 @@
 #import <GJTAdditionKit/UIScreen+HandyValue.h>
 #import <GJTAdditionKit/UIColor+GJTAddition.h>
 #import <GJTAdditionKit/UIImage+GJTAddition.h>
+#import <GJTAdditionKit/UIDevice+HandyValue.h>
 
 #import <GJTAdditionKit/UINavigationController+GJTFullscreenPopGesture.h>
 
