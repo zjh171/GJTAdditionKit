@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GJTAdditionKit"
-  spec.version      = "0.0.9"
+  spec.version      = "0.1.0"
   spec.summary      = "UIKit 各个类 一些扩展."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,11 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/zjh171/GJTAdditionKit.git", :tag => "#{spec.version}" }
+  spec.ios.public_header_files = 'https://github.com/zjh171/Downloads/tree/master/GJTAdditionKit.framework/Versions/A/Headers/*.h'
+  spec.ios.source_files = 'https://github.com/zjh171/Downloads/tree/master/GJTAdditionKit.framework/Versions/A/Headers/*.h'
+
+  spec.source       = { :git => "https://github.com/zjh171/Downloads/tree/master/GJTAdditionKit.framework/Versions/A/Headers" }
+  spec.ios.vendored_framework   = 'GJTAdditionKit.framework'
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
